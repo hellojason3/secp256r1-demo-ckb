@@ -1,0 +1,8 @@
+build/*
+*.o
+*.swp
+*.debug
+*.release
+.idea/*
+*.sh
+cmake-build-debug/

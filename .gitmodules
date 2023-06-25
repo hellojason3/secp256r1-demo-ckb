@@ -1,0 +1,7 @@
+[submodule "deps/ckb-c-stdlib"]
+	path = deps/ckb-c-stdlib
+	url = https://github.com/nervosnetwork/ckb-c-stdlib
+[submodule "deps/libecc"]
+	path = deps/libecc
+	url = https://github.com/dotbitHQ/libecc
+	branch = ckb-compatible
