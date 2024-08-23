@@ -1,10 +1,6 @@
 #ifndef DAS_DEMO_SECP256R1_SECP256R1_HELPER_H
 #define DAS_DEMO_SECP256R1_SECP256R1_HELPER_H
 
-//#include "deps/libecc/src/lib_ecc_types.h"
-//#include "deps/libecc/src/libec.h"
-//#include "deps/libecc/src/libsig.h"
-
 #include "lib_ecc_types.h"
 #include "libec.h"
 #include "libsig.h"
